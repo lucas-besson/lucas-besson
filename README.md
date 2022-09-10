@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lucas.besson02@edu.univ-fcomte.fr**
 
-<a href="https://developer.apple.com"target="_blank" rel="Apple Developer"> <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Apple_Developer_brandmark.svg"> </a>
+<a href="https://developer.apple.com" target="_blank"> <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Apple_Developer_brandmark.svg"> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
