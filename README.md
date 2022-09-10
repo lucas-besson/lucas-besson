@@ -1,15 +1,16 @@
 ![MasterHead](https://www.aglb-photo.com/wp-content/uploads/2022/09/Night-Lyon.jpg)
 <h1 align="center">Hi 👋, I'm Lucas BESSON</h1>
 <h3 align="center">I'm a student who is passionate about IT 🖥 and Photography 📸</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Apple_Developer_brandmark.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-besson&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-besson" /> </p>
 
-- 🔭 I’m currently working on **University of Franche-Comte **
+- 🔭 I’m currently working on **University of Franche-Comte**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **lucas.besson02@edu.univ-fcomte.fr**
+
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Apple_Developer_brandmark.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
