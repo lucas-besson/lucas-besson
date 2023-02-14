@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **University of Franche-Comte**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning the **Network security and application development**
 
 - 📫 How to reach me **lucas.besson02@edu.univ-fcomte.fr**
 
