@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning the **Network security and application development**
 
-- 📫 How to reach me **lucas.besson02@edu.univ-fcomte.fr**
+- 📫 How to reach me **lucas.besson@etu.u-paris.fr**
 
 
 <h3 align="left">Connect with me:</h3>
