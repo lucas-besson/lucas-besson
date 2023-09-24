@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-besson&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-besson" /> </p>
 
-- 🔭 I’m currently working on **University of Franche-Comte**
+- 🔭 I’m currently working on **University of Paris Descartes**
 
 - 🌱 I’m currently learning the **Network security and application development**
 
