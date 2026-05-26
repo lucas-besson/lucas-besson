@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas BESSON</h1>
-<h3 align="center">I'm a student who is passionate about IT 🖥 and Photography 📸</h3>
+<h3 align="center">I'm a student who is passionate about IT 🖥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-besson&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-besson" /> </p>
 
